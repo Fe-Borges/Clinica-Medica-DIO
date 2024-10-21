@@ -43,7 +43,6 @@ th, td {
     padding: 10px;
 }
 
-tr:nth-child(even){background-color: #f2f2f2}
 
 th {
     background-color: #DAA520;
@@ -55,3 +54,4 @@ th {
     padding: 1px;
     height: 75px;
 }
+
